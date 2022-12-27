@@ -1,1 +1,1 @@
-React.js App using routing API data 
+React Movies app built using TheMovieDB API
